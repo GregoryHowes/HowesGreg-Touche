@@ -101,7 +101,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #menu a.navbar-brand {
 	font-family: 'Roboto';
 	font-size: 36px;
-	color: silver;
+	color: #8eb640;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
@@ -295,7 +295,7 @@ header .intro-text {
 	padding: 0 0 120px 0;
 }
 #portfolio .section-title {
-	background: #444 url(../img/gallery-bg.jpg) center center no-repeat fixed;
+	background: #444 url(../img/me-finish.jpg) center center no-repeat fixed;
 	background-size: cover;
 	margin-bottom: 50px;
 }
@@ -415,7 +415,7 @@ ol.type li a:hover {
 /* Team Section */
 #team {
 	color: #fff;
-	background: #444 url(../img/team-bg.jpg) center top no-repeat fixed;
+	background: #444 url(../img/me-finish-oo.jpg) center top no-repeat fixed;
 	background-size: cover;
 }
 #team .overlay {
