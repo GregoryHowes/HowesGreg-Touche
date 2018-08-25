@@ -238,31 +238,31 @@ header .intro-text {
 	margin: 15px 0 30px;
 }
 /* Menu Section */
-#restaurant-menu {
+#training {
 	padding: 0 0 60px 0;
 }
-#restaurant-menu .section-title {
+#training .section-title {
 	background: #444 url(../img/run-mood.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
-#restaurant-menu .section-title h2 {
+#training .section-title h2 {
 	color: #fff;
 }
-#restaurant-menu img {
+#training img {
 	width: 300px;
 	box-shadow: 15px 0 #a7c44c;
 }
-#restaurant-menu h3 {
+#training h3 {
 	padding: 10px 0;
 	text-transform: uppercase;
 }
-#restaurant-menu .menu-section hr {
+#training .menu-section hr {
 	margin: 0 auto;
 }
-#restaurant-menu .menu-section {
+#training .menu-section {
 	margin: 0 20px 80px;
 }
-#restaurant-menu .menu-section-title {
+#training .menu-section-title {
 	font-size: 26px;
 	display: block;
 	font-weight: 500;
@@ -270,21 +270,21 @@ header .intro-text {
 	margin: 20px 0;
 	text-align: center;
 }
-#restaurant-menu .menu-item {
+#training .menu-item {
 	margin: 35px 0;
 	font-size: 18px;
 }
-#restaurant-menu .menu-item-name {
+#training .menu-item-name {
 	font-weight: 600;
 	font-size: 17px;
 	color: #555;
 	border-bottom: 2px dotted rgb(213, 213, 213);
 }
-#restaurant-menu .menu-item-description {
+#training .menu-item-description {
 	font-style: italic;
 	font-size: 15px;
 }
-#restaurant-menu .menu-item-price {
+#training .menu-item-price {
 	float: right;
 	font-weight: 600;
 	color: #555;
@@ -412,40 +412,40 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-/* Team Section */
-#team {
+/* blog Section */
+#blog {
 	color: #fff;
 	background: #444 url(../img/me-finish-oo.jpg) center top no-repeat fixed;
 	background-size: cover;
 }
-#team .overlay {
+#blog .overlay {
 	padding: 120px 0 80px 0;
 	background: rgba(0, 0, 0, 0.6);
 }
-#team h2, #team p {
+#blog h2, #blog p {
 	color: #fff;
 }
-#team hr {
+#blog hr {
 	background: #fff;
 }
-#team h3 {
+#blog h3 {
 	color: #fff;
 	font-weight: 400;
 	font-size: 20px;
 	margin: 5px 0;
 }
-#team img {
+#blog img {
 	width: 280px;
 }
-#team .thumbnail {
+#blog .thumbnail {
 	background: transparent;
 	border: 0;
 }
-#team .thumbnail .team-img {
+#blog .thumbnail .blog-img {
 	display: inline-block;
 	position: relative;
 }
-#team .thumbnail .team-img:before {
+#blog .thumbnail .blog-img:before {
 	display: block;
 	content: '';
 	position: absolute;
@@ -455,10 +455,10 @@ ol.type li a:hover {
 	left: 8px;
 	border: 1px solid rgba(255, 255, 255, 0.2);
 }
-#team .thumbnail .caption {
+#blog .thumbnail .caption {
 	padding-top: 10px;
 }
-#team .thumbnail .caption p {
+#blog .thumbnail .caption p {
 	color: rgba(255,255,255,0.7);
 	padding: 0 10px;
 	font-size: 15px;
